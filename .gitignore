@@ -1,0 +1,10 @@
+node_modules/
+build/
+secrets.json
+.idea
+
+# Coverage
+coverage/
+.coverage*
+coverage.json
+
